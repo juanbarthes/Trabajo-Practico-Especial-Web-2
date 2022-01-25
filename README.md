@@ -3,3 +3,4 @@
  Se trabajo en un servidor local con Xampp, por lo que para probar ese sitio es necesario contar con un software similar.
  Es necesario crear una nueva base de datos en PHPMyAdmin con los datos usuario: root y contraseña: Amaterasu1
  Luego importar las tablas a la nueva base de datos utilizando el archivo productos.sql, que se encuentra en la carpeta raiz del repositorio.
+ Para probar toda la funcionalidad ir a la seccion de login e ingresar con el usuario juan@admin y la contraseña Amaterasu1
